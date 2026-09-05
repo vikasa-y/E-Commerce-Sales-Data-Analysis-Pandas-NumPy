@@ -22,3 +22,5 @@ A beginner-friendly data analysis project using **Python, Pandas, and NumPy** to
 ### 🎯 Goal
 
 To practice working with a real-world dataset and extract meaningful insights using **Pandas and NumPy**.
+
+👉 To Cheak Insights Go to ipynb file
